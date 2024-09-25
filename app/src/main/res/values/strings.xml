@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RestaurantApp</string>
+    <string name="wlc">Welcome</string>
+    <string name="choose.courses">Select the courses you want:</string>
+    <string name="confirm">Confirm</string>
+
+    // Courses
+    <string name="drinks">Drinks</string>
+    <string name="starters">Starters</string>
+    <string name="main.course">Main Course</string>
+    <string name="desserts">Desserts</string>
+</resources>
